@@ -1,16 +1,6 @@
 # provider_perfection
 
-A new Flutter project.
+A very simple Calculator made with Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![calculator_screenshot](https://user-images.githubusercontent.com/55284278/97968181-e7189000-1d83-11eb-8b9a-4f6ae9c12618.png)
+![calculator_screenshot2](https://user-images.githubusercontent.com/55284278/97968185-e97aea00-1d83-11eb-902c-969e1e23a7ec.png)
