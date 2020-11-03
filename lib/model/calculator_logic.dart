@@ -1,8 +1,5 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
-import 'dart:math';
 
 class Calculator extends ChangeNotifier {
   String _value = '0';
@@ -32,17 +29,3 @@ class Calculator extends ChangeNotifier {
     notifyListeners();
   }
 }
-
-// final stringifyedValue = value.toString();
-// if (_value == 0) {
-//   _value = value;
-// } else {
-//   _value = int.parse(_value.toString() + newValue.toString());
-// }
-
-//.........
-// if (_value .) {
-//   _value = int.parse(_value.toString() + newValue.toString());
-// }
-
-//..................
